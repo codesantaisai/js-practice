@@ -15,3 +15,5 @@ console.log(y);
 let y=30;
 console.log(y);
 */
+var d=new Date();
+console.log(d);
